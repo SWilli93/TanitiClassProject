@@ -92,10 +92,6 @@ nav {
 
 /* ---------------------------------------------------- Carousel  */
 
-#about {
-    /* position: center; */
-}
-
 .carousel-container {
     position: absolute;
     bottom: -6rem; /* Adjust as needed */
